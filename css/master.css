@@ -1,0 +1,94 @@
+.main-content{
+height: 220px;
+  margin-top: 150px;
+  margin-bottom: 60px;
+
+}
+
+.main-content h2{
+  max-width: 1000px;
+  margin-left: auto;
+  font-family: 'Fascinate Inline', cursive;
+  color: white;
+
+}
+
+.main-content p{
+  max-width: 860px;
+  margin-right: auto;
+  margin-left: auto;
+  font-family: 'Montserrat', sans-serif;
+  margin-top: auto;
+  margin-bottom: auto;
+  color: white;
+  text-align: justify;
+}
+
+.main-content1{
+margin-right: auto;
+    height: 220px;
+    margin-bottom: 60px;
+
+
+}
+
+.main-content1 h2{
+max-width: 1000px;
+
+  margin-left: auto;
+font-family: 'Fascinate Inline', cursive;
+  color: white;
+
+}
+
+.main-content1 p{
+  max-width: 860px;
+  margin-right: auto;
+  margin-left: auto;
+    font-family: 'Montserrat', sans-serif;
+  margin-top: 50px;
+  color: white;
+  text-align: justify;
+}
+
+.main-content2{
+
+    height: 220px;
+    margin-bottom: 150px;
+}
+
+.main-content2 h2{
+  max-width: 1000px;
+    margin-left:auto;
+    
+  font-family: 'Fascinate Inline', cursive;
+
+}
+
+.main-content2 p{
+  max-width: 860px;
+
+  margin-left: auto;
+  margin-right: auto;
+    font-family: 'Montserrat', sans-serif;
+  margin-top: 50px;
+  text-align: justify;
+}
+
+header{
+
+    min-height: 100px;
+    max-width: 60vh;
+text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 150px;
+    font-size: 30px;
+    font-family: 'Mansalva', cursive;
+}
+
+
+
+body{
+  background: url('images/image01.jpg') no-repeat;
+  background-size: cover;

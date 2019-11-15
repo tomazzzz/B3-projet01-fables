@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css?family=Domine|Fascinate+Inline|Mansalva|Montserrat|Oswald|Source+Sans+Pro&display=swap');
+
+
+body{
+  color: #fff;
+}
+
+a{
+  font-family: 'Mansalva', cursive;
+  font-size: 30px;
+  margin-left: auto;
+  margin-right:auto;
+  color: white;
+
+}
+ .main-content3{
+   text-align: center;
+   margin-bottom: 60px;
+ }
+
+ .main-content4{
+font-family: 'Mansalva', cursive;
+text-align: center;
+ }
+
+.main-content5{
+  font-family: 'Mansalva', cursive;
+  text-align: center;
+  font-size: 15px;
+}
